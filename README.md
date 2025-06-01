@@ -4,7 +4,8 @@ Ez egy .NET 8 konzolos alkalmazás, amely az üvegezés fiktív lambda értéké
 
 ## Használat
 1. Futtasd az alkalmazást:
-   ```pwsh
+   ```
+   pwsh
    dotnet run
    ```
 2. Add meg a kért adatokat (csak pozitív számokat fogad el):
