@@ -1,4 +1,4 @@
-# Üvegezés Lambda Számító
+# Üvegezés Fiktív Lambda Számító
 
 Ez egy .NET 8 konzolos alkalmazás, amely az üvegezés fiktív lambda értékének számítását végzi.
 
