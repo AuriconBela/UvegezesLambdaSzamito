@@ -17,7 +17,7 @@ Ez egy .NET 8 konzolos alkalmazás, amely az üvegezés fiktív lambda értéké
 4. A kilépéshez nyomj meg egy gombot.
 
 ## Követelmények
-- .NET 8 SDK
+- .NET 8 SDK a célgépen telepítve
 
 ## Fő képlet
 λ = -(d/(R<sub>se</sub> + R<sub>si</sub> - 1/U<sub>g</sub>))
